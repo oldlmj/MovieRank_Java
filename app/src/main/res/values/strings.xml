@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieRank</string>
+    <string name="title_home">排名</string>
+    <string name="title_moviestudio">影城</string>
+    <string name="title_settings">設定</string>
+    <string name="enter_title">Enter Title</string>
+</resources>
