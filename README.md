@@ -6,3 +6,6 @@
   #網路狀態偵測
   #啟動畫面
   #是否APP退出偵測
+  
+  Youtube 展示影片
+  [![](http://img.youtube.com/vi/Vo4GWYp8jY4/0.jpg)](http://www.youtube.com/watch?v=Vo4GWYp8jY4 "Go movie")
