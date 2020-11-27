@@ -9,4 +9,4 @@
   
   Youtube 展示影片
   
-  [![](http://img.youtube.com/vi/Vo4GWYp8jY4/0.jpg)](http://www.youtube.com/watch?v=Vo4GWYp8jY4 "Go movie")
+  [![](http://img.youtube.com/vi/Vo4GWYp8jY4/1.jpg)](http://www.youtube.com/watch?v=Vo4GWYp8jY4 "Go movie")
